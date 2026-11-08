@@ -7,9 +7,9 @@ no.wikipedia.org
 en.wikipedia.org
 google.com
 snl.no
-lille.snl.no/
+lille.snl.no
 toddleapp.com
-bbc.com/bitesize
+bbc.com
 nationalgeographic.com
 kids.nationalgeographic.com
 britannica.com
@@ -24,7 +24,7 @@ denboka.no
 bokslukerprisen.no
 myimaths.com
 pokemath.online
-www.prodigygame.com/
+www.prodigygame.com
 code.org
 scratch.mit.edu
 minecrafteducation.com

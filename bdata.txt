@@ -59,3 +59,7 @@ quillbot.com
 copy.ai
 1min.ai
 ahrefs.com
+waterfox.com
+classic.waterfox.net
+browsers.to
+sourceforge.net

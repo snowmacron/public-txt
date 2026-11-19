@@ -64,3 +64,5 @@ classic.waterfox.net
 browsers.to
 sourceforge.net
 twoplayergames.org
+saltyseas.io
+msn.com

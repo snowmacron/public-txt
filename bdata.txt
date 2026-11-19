@@ -63,3 +63,4 @@ waterfox.com
 classic.waterfox.net
 browsers.to
 sourceforge.net
+twoplayergames.org

@@ -68,3 +68,5 @@ saltyseas.io
 msn.com
 playfootball.games
 footballminigames.com
+openfront.io
+openfront.dev

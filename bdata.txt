@@ -70,3 +70,6 @@ playfootball.games
 footballminigames.com
 openfront.io
 openfront.dev
+main.openfront.dev
+cookie-clicker2.com
+softonic.com
